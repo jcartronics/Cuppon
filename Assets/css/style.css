@@ -1,0 +1,17 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.img-logo {
+  width: 6rem;
+}
+
+.verde {
+  color: #28A745;
+}
+.e-mail h4{
+  color: white;
+}
+.pie h5 {
+  font-weight: 300;
+}
